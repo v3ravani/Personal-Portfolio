@@ -2,7 +2,7 @@
 
 > **"I create quality experience for humans"** - A modern, responsive portfolio showcasing engineering talent and creative development skills.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://virajravani.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-viraj--ravani.netlify.app-brightgreen)](https://viraj-ravani.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-v3ravani-blue)](https://github.com/v3ravani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Ravani-0077B5)](https://www.linkedin.com/in/virajravani)
 
@@ -84,7 +84,10 @@ portfolioviraj/
    open index.html
    
    # Option 2: Local server (recommended)
-   python -m http.server 8000
+   # Using Node.js http-server
+   npx http-server
+   # Or using PHP
+   php -S localhost:8000
    # Then visit http://localhost:8000
    ```
 
@@ -209,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Connect
 
-- **Portfolio**: [virajravani.com](https://virajravani.com)
+- **Live Demo**: [viraj-ravani.netlify.app](https://viraj-ravani.netlify.app)
 - **GitHub**: [@v3ravani](https://github.com/v3ravani)
 - **LinkedIn**: [Viraj Ravani](https://www.linkedin.com/in/virajravani)
 - **Email**: viraj.ravani@somaiya.edu
