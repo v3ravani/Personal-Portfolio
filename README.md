@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *"ideate • build • ship"*
 
-[![GitHub stars](https://img.shields.io/github/stars/v3ravani/portfolioviraj?style=social)](https://github.com/v3ravani/portfolioviraj)
-[![GitHub forks](https://img.shields.io/github/forks/v3ravani/portfolioviraj?style=social)](https://github.com/v3ravani/portfolioviraj)
+[![GitHub stars](https://img.shields.io/github/stars/v3ravani/portfolioviraj?style=social)](https://github.com/v3ravani/Personal-Portfolio)
+[![GitHub forks](https://img.shields.io/github/forks/v3ravani/portfolioviraj?style=social)](https://github.com/v3ravani/Personal-Portfolio)
 
 </div>
